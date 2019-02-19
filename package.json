@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/powererp/cashflow/issues"
   },
-  "homepage": "https://github.com/powererp/cashflow#readme"
+  "homepage": "https://github.com/powererp/cashflow#readme",
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
 }
