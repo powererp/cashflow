@@ -1,0 +1,25 @@
+{
+  "name": "cashflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/powererp/cashflow.git"
+  },
+  "keywords": [],
+  "author": "PowerERP pvt ltd. <perpsolution@gmail.com>",
+  "contributors": [
+    "Ravi Shrestha <ravi.shrestha@sussol.net>",
+    "Arjun Sah <>",
+    "Anil Dahal <>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/powererp/cashflow/issues"
+  },
+  "homepage": "https://github.com/powererp/cashflow#readme"
+}
